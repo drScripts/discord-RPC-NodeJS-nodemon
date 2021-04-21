@@ -1,0 +1,14 @@
+{
+    "size": 13,
+    "sizeM": 25,
+    "restart": "n",
+    "state": "Your State",
+    "details": "details",
+    "large_image": "(image_in_discord_assets)",
+    "large_text": "large_text",
+    "small_image": "(image_in_discord_assets)",
+    "small_text": "small text",
+    "label": "button_label",
+    "url": "link",
+    "client_id":"client_id"
+}
