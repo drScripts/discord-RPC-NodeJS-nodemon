@@ -7,3 +7,5 @@
 - the "size" key for value of party size
 - the "sizeM" key for max value of party size
 - the "restart" key for restarting the timestamps from 00:00 `"y"` (and for the first time starting the program using y) and type `"n"` for using previouse timestamps(or if you update the config.json value you need to set it become "n")
+- and then open the commandprompt and start the index.js file using `nodemon index` and do not close the commandprompt
+- if you need to change the value at config.json just save the file
